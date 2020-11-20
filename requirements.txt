@@ -4,7 +4,7 @@
 #
 #    pip-compile
 #
-matplotlib==3.2.1
+matplotlib==3.3.0
 numpy==1.18.5
 rebound==3.12.1
 tqdm
