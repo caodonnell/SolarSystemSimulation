@@ -8,3 +8,4 @@ matplotlib==3.3.0
 numpy==1.18.5
 rebound==3.12.1
 tqdm
+ffmpeg==3.2
