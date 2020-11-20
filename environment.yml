@@ -1,4 +1,4 @@
-name: example-environment
+name: rebound-environment
 channels:
   - conda-forge
 dependencies:
