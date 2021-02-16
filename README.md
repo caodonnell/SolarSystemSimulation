@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/caodonnell/SolarSystemSimulation/main)
 
-Please see LICENSE.txt for licensing information. Use of these materials require credit and license notice.
+Please see LICENSE.txt for licensing information - use of these materials require credit and license notice. This notebook is adapted from an activity originally created by Rachel Smullen and Christine O'Donnell in spring 2020.
 
 This Jupyter notebook is designed to introduce learners to how we can use simulations (and Python programming) in astronomy research. Using the Rebound package, users will be guided through an activity to simulate the orbits of the planets in our Solar System. Since we can't actually experiment with the Solar System (add/remove planets, change orbits, etc.), simulations give us the opportunity to virtually conduct those experiments. Learners will have the opportunity to play with the code to notice and wonder about how changes to the Solar System impact the stability of the system (do planets collide or get ejected?).
 
